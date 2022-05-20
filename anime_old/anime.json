@@ -1,0 +1,702 @@
+[
+    {
+        "anime_id":38524,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1517\/100633.jpg",
+        "title":"Shingeki no Kyojin Season 3 Part 2",
+        "type":"TV",
+        "score":9.05
+    },
+    {
+        "anime_id":5114,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1223\/96541.jpg",
+        "title":"Fullmetal Alchemist: Brotherhood",
+        "type":"TV",
+        "score":9.03
+    },
+    {
+        "anime_id":48583,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1948\/120625.jpg",
+        "title":"Shingeki no Kyojin: The Final Season Part 2",
+        "type":"TV",
+        "score":9.02
+    },
+    {
+        "anime_id":9253,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/5\/73199.jpg",
+        "title":"Steins;Gate",
+        "type":"TV",
+        "score":8.98
+    },
+    {
+        "anime_id":11061,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1337\/99013.jpg",
+        "title":"Hunter x Hunter (2011)",
+        "type":"TV",
+        "score":8.96
+    },
+    {
+        "anime_id":28851,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1122\/96435.jpg",
+        "title":"Koe no Katachi",
+        "type":"Movie",
+        "score":8.94
+    },
+    {
+        "anime_id":42938,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1085\/114792.jpg",
+        "title":"Fruits Basket: The Final",
+        "type":"TV",
+        "score":8.93
+    },
+    {
+        "anime_id":37987,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1825\/110716.jpg",
+        "title":"Violet Evergarden Movie",
+        "type":"Movie",
+        "score":8.93
+    },
+    {
+        "anime_id":15417,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/6\/75172.jpg",
+        "title":"Gintama': Enchousen",
+        "type":"TV",
+        "score":8.92
+    },
+    {
+        "anime_id":35180,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/3\/88469.jpg",
+        "title":"3-gatsu no Lion 2nd Season",
+        "type":"TV",
+        "score":8.9
+    },
+    {
+        "anime_id":47778,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1908\/120036.jpg",
+        "title":"Kimetsu no Yaiba: Yuukaku-hen",
+        "type":"TV",
+        "score":8.89
+    },
+    {
+        "anime_id":9969,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/4\/50361.jpg",
+        "title":"Gintama'",
+        "type":"TV",
+        "score":8.89
+    },
+    {
+        "anime_id":4181,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1299\/110774.jpg",
+        "title":"Clannad: After Story",
+        "type":"TV",
+        "score":8.89
+    },
+    {
+        "anime_id":2904,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/4\/9391.jpg",
+        "title":"Code Geass: Hangyaku no Lelouch R2",
+        "type":"TV",
+        "score":8.88
+    },
+    {
+        "anime_id":34096,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/3\/83528.jpg",
+        "title":"Gintama.",
+        "type":"TV",
+        "score":8.88
+    },
+    {
+        "anime_id":32281,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/5\/87048.jpg",
+        "title":"Kimi no Na wa.",
+        "type":"Movie",
+        "score":8.85
+    },
+    {
+        "anime_id":39486,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1988\/113791.jpg",
+        "title":"Gintama: The Final",
+        "type":"Movie",
+        "score":8.84
+    },
+    {
+        "anime_id":15335,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/10\/51723.jpg",
+        "title":"Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+        "type":"Movie",
+        "score":8.84
+    },
+    {
+        "anime_id":35247,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/6\/87322.jpg",
+        "title":"Owarimonogatari 2nd Season",
+        "type":"TV",
+        "score":8.84
+    },
+    {
+        "anime_id":40028,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1000\/110531.jpg",
+        "title":"Shingeki no Kyojin: The Final Season",
+        "type":"TV",
+        "score":8.82
+    },
+    {
+        "anime_id":37491,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1776\/96566.jpg",
+        "title":"Gintama.: Shirogane no Tamashii-hen - Kouhan-sen",
+        "type":"TV",
+        "score":8.8
+    },
+    {
+        "anime_id":199,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/6\/79597.jpg",
+        "title":"Sen to Chihiro no Kamikakushi",
+        "type":"Movie",
+        "score":8.8
+    },
+    {
+        "anime_id":40834,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1347\/117616.jpg",
+        "title":"Ousama Ranking",
+        "type":"TV",
+        "score":8.79
+    },
+    {
+        "anime_id":37510,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1918\/96303.jpg",
+        "title":"Mob Psycho 100 II",
+        "type":"TV",
+        "score":8.78
+    },
+    {
+        "anime_id":31758,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1084\/112813.jpg",
+        "title":"Kizumonogatari III: Reiketsu-hen",
+        "type":"Movie",
+        "score":8.78
+    },
+    {
+        "anime_id":28977,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/3\/72078.jpg",
+        "title":"Gintama\u00b0",
+        "type":"TV",
+        "score":8.78
+    },
+    {
+        "anime_id":32935,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/7\/81992.jpg",
+        "title":"Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou",
+        "type":"TV",
+        "score":8.77
+    },
+    {
+        "anime_id":36838,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/12\/89603.jpg",
+        "title":"Gintama.: Shirogane no Tamashii-hen",
+        "type":"TV",
+        "score":8.75
+    },
+    {
+        "anime_id":45576,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1028\/117777.jpg",
+        "title":"Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+        "type":"TV",
+        "score":8.74
+    },
+    {
+        "anime_id":17074,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/3\/52133.jpg",
+        "title":"Monogatari Series: Second Season",
+        "type":"TV",
+        "score":8.73
+    },
+    {
+        "anime_id":44074,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1135\/114867.jpg",
+        "title":"Shiguang Dailiren",
+        "type":"ONA",
+        "score":8.73
+    },
+    {
+        "anime_id":1,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/4\/19644.jpg",
+        "title":"Cowboy Bebop",
+        "type":"TV",
+        "score":8.72
+    },
+    {
+        "anime_id":46102,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1981\/113348.jpg",
+        "title":"Odd Taxi",
+        "type":"TV",
+        "score":8.71
+    },
+    {
+        "anime_id":33050,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1142\/112957.jpg",
+        "title":"Fate\/stay night Movie: Heaven's Feel - III. Spring Song",
+        "type":"Movie",
+        "score":8.69
+    },
+    {
+        "anime_id":44,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1899\/94562.jpg",
+        "title":"Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+        "type":"OVA",
+        "score":8.69
+    },
+    {
+        "anime_id":37521,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1500\/103005.jpg",
+        "title":"Vinland Saga",
+        "type":"TV",
+        "score":8.69
+    },
+    {
+        "anime_id":164,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/7\/75919.jpg",
+        "title":"Mononoke Hime",
+        "type":"Movie",
+        "score":8.69
+    },
+    {
+        "anime_id":431,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/5\/75810.jpg",
+        "title":"Howl no Ugoku Shiro",
+        "type":"Movie",
+        "score":8.68
+    },
+    {
+        "anime_id":40456,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1704\/106947.jpg",
+        "title":"Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+        "type":"Movie",
+        "score":8.68
+    },
+    {
+        "anime_id":19,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/10\/18793.jpg",
+        "title":"Monster",
+        "type":"TV",
+        "score":8.68
+    },
+    {
+        "anime_id":24701,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/9\/68095.jpg",
+        "title":"Mushishi Zoku Shou 2nd Season",
+        "type":"TV",
+        "score":8.68
+    },
+    {
+        "anime_id":36862,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1502\/110723.jpg",
+        "title":"Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+        "type":"Movie",
+        "score":8.68
+    },
+    {
+        "anime_id":40434,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1634\/116782.jpg",
+        "title":"Mo Dao Zu Shi: Wanjie Pian",
+        "type":"ONA",
+        "score":8.67
+    },
+    {
+        "anime_id":40748,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1171\/109222.jpg",
+        "title":"Jujutsu Kaisen (TV)",
+        "type":"TV",
+        "score":8.67
+    },
+    {
+        "anime_id":1575,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/5\/50331.jpg",
+        "title":"Code Geass: Hangyaku no Lelouch",
+        "type":"TV",
+        "score":8.67
+    },
+    {
+        "anime_id":263,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/4\/86334.jpg",
+        "title":"Hajime no Ippo",
+        "type":"TV",
+        "score":8.67
+    },
+    {
+        "anime_id":820,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/13\/13225.jpg",
+        "title":"Ginga Eiyuu Densetsu",
+        "type":"OVA",
+        "score":8.66
+    },
+    {
+        "anime_id":40664,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1378\/119190.jpg",
+        "title":"Shoujo\u2606Kageki Revue Starlight Movie",
+        "type":"Movie",
+        "score":8.66
+    },
+    {
+        "anime_id":21939,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/13\/58533.jpg",
+        "title":"Mushishi Zoku Shou",
+        "type":"TV",
+        "score":8.66
+    },
+    {
+        "anime_id":3786,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1422\/113533.jpg",
+        "title":"Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "type":"Movie",
+        "score":8.65
+    },
+    {
+        "anime_id":21,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/6\/73245.jpg",
+        "title":"One Piece",
+        "type":"TV",
+        "score":8.65
+    },
+    {
+        "anime_id":33095,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/10\/82947.jpg",
+        "title":"Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+        "type":"TV",
+        "score":8.65
+    },
+    {
+        "anime_id":34599,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/6\/86733.jpg",
+        "title":"Made in Abyss",
+        "type":"TV",
+        "score":8.64
+    },
+    {
+        "anime_id":28891,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/9\/76662.jpg",
+        "title":"Haikyuu!! Second Season",
+        "type":"TV",
+        "score":8.64
+    },
+    {
+        "anime_id":40682,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1443\/111830.jpg",
+        "title":"Kingdom 3rd Season",
+        "type":"TV",
+        "score":8.63
+    },
+    {
+        "anime_id":35760,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1173\/92110.jpg",
+        "title":"Shingeki no Kyojin Season 3",
+        "type":"TV",
+        "score":8.63
+    },
+    {
+        "anime_id":5258,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/8\/56617.jpg",
+        "title":"Hajime no Ippo: New Challenger",
+        "type":"TV",
+        "score":8.63
+    },
+    {
+        "anime_id":23273,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/3\/67177.jpg",
+        "title":"Shigatsu wa Kimi no Uso",
+        "type":"TV",
+        "score":8.62
+    },
+    {
+        "anime_id":40591,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1764\/106659.jpg",
+        "title":"Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
+        "type":"TV",
+        "score":8.62
+    },
+    {
+        "anime_id":38329,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1613\/102179.jpg",
+        "title":"Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+        "type":"Movie",
+        "score":8.62
+    },
+    {
+        "anime_id":918,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/10\/73274.jpg",
+        "title":"Gintama",
+        "type":"TV",
+        "score":8.62
+    },
+    {
+        "anime_id":48561,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1121\/119044.jpg",
+        "title":"Jujutsu Kaisen 0 Movie",
+        "type":"Movie",
+        "score":8.61
+    },
+    {
+        "anime_id":1535,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/9\/9453.jpg",
+        "title":"Death Note",
+        "type":"TV",
+        "score":8.61
+    },
+    {
+        "anime_id":245,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/13\/11460.jpg",
+        "title":"Great Teacher Onizuka",
+        "type":"TV",
+        "score":8.61
+    },
+    {
+        "anime_id":11665,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/3\/37449.jpg",
+        "title":"Natsume Yuujinchou Shi",
+        "type":"TV",
+        "score":8.61
+    },
+    {
+        "anime_id":49310,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1034\/120096.jpg",
+        "title":"Fruits Basket: Prelude",
+        "type":"Movie",
+        "score":8.61
+    },
+    {
+        "anime_id":33352,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1795\/95088.jpg",
+        "title":"Violet Evergarden",
+        "type":"TV",
+        "score":8.61
+    },
+    {
+        "anime_id":48569,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1321\/117508.jpg",
+        "title":"86 Part 2",
+        "type":"TV",
+        "score":8.6
+    },
+    {
+        "anime_id":12355,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/9\/35721.jpg",
+        "title":"Ookami Kodomo no Ame to Yuki",
+        "type":"Movie",
+        "score":8.59
+    },
+    {
+        "anime_id":7311,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1248\/112352.jpg",
+        "title":"Suzumiya Haruhi no Shoushitsu",
+        "type":"Movie",
+        "score":8.58
+    },
+    {
+        "anime_id":31757,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1981\/112812.jpg",
+        "title":"Kizumonogatari II: Nekketsu-hen",
+        "type":"Movie",
+        "score":8.57
+    },
+    {
+        "anime_id":19647,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/6\/56147.jpg",
+        "title":"Hajime no Ippo: Rising",
+        "type":"TV",
+        "score":8.56
+    },
+    {
+        "anime_id":37991,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1572\/95010.jpg",
+        "title":"JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+        "type":"TV",
+        "score":8.56
+    },
+    {
+        "anime_id":34591,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/6\/84416.jpg",
+        "title":"Natsume Yuujinchou Roku",
+        "type":"TV",
+        "score":8.56
+    },
+    {
+        "anime_id":2001,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/4\/5123.jpg",
+        "title":"Tengen Toppa Gurren Lagann",
+        "type":"TV",
+        "score":8.56
+    },
+    {
+        "anime_id":36098,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1768\/93291.jpg",
+        "title":"Kimi no Suizou wo Tabetai",
+        "type":"Movie",
+        "score":8.56
+    },
+    {
+        "anime_id":10379,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/8\/82394.jpg",
+        "title":"Natsume Yuujinchou San",
+        "type":"TV",
+        "score":8.55
+    },
+    {
+        "anime_id":32983,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/11\/81755.jpg",
+        "title":"Natsume Yuujinchou Go",
+        "type":"TV",
+        "score":8.55
+    },
+    {
+        "anime_id":457,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/2\/73862.jpg",
+        "title":"Mushishi",
+        "type":"TV",
+        "score":8.55
+    },
+    {
+        "anime_id":4565,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/12\/19698.jpg",
+        "title":"Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
+        "type":"Movie",
+        "score":8.55
+    },
+    {
+        "anime_id":11741,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1522\/117645.jpg",
+        "title":"Fate\/Zero 2nd Season",
+        "type":"TV",
+        "score":8.55
+    },
+    {
+        "anime_id":22135,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/10\/58041.jpg",
+        "title":"Ping Pong the Animation",
+        "type":"TV",
+        "score":8.54
+    },
+    {
+        "anime_id":5300,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/4\/79738.jpg",
+        "title":"Zoku Natsume Yuujinchou",
+        "type":"TV",
+        "score":8.54
+    },
+    {
+        "anime_id":40776,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1453\/106768.jpg",
+        "title":"Haikyuu!! To the Top 2nd Season",
+        "type":"TV",
+        "score":8.54
+    },
+    {
+        "anime_id":32,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1404\/98182.jpg",
+        "title":"Neon Genesis Evangelion: The End of Evangelion",
+        "type":"Movie",
+        "score":8.54
+    },
+    {
+        "anime_id":38000,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1286\/99889.jpg",
+        "title":"Kimetsu no Yaiba",
+        "type":"TV",
+        "score":8.54
+    },
+    {
+        "anime_id":48661,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1896\/119844.jpg",
+        "title":"JoJo no Kimyou na Bouken Part 6: Stone Ocean",
+        "type":"ONA",
+        "score":8.53
+    },
+    {
+        "anime_id":40417,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1972\/111635.jpg",
+        "title":"Fruits Basket 2nd Season",
+        "type":"TV",
+        "score":8.53
+    },
+    {
+        "anime_id":37779,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1830\/118780.jpg",
+        "title":"Yakusoku no Neverland",
+        "type":"TV",
+        "score":8.53
+    },
+    {
+        "anime_id":44070,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1043\/110306.jpg",
+        "title":"Tian Guan Ci Fu Special",
+        "type":"ONA",
+        "score":8.52
+    },
+    {
+        "anime_id":16498,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/10\/47347.jpg",
+        "title":"Shingeki no Kyojin",
+        "type":"TV",
+        "score":8.52
+    },
+    {
+        "anime_id":49701,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1029\/118861.jpg",
+        "title":"Doupo Cangqiong: San Nian Zhi Yue",
+        "type":"ONA",
+        "score":8.52
+    },
+    {
+        "anime_id":28957,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/9\/72689.jpg",
+        "title":"Mushishi Zoku Shou: Suzu no Shizuku",
+        "type":"Movie",
+        "score":8.52
+    },
+    {
+        "anime_id":437,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/11\/79127.jpg",
+        "title":"Perfect Blue",
+        "type":"Movie",
+        "score":8.52
+    },
+    {
+        "anime_id":4282,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1574\/112838.jpg",
+        "title":"Kara no Kyoukai 5: Mujun Rasen",
+        "type":"Movie",
+        "score":8.52
+    },
+    {
+        "anime_id":33049,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1974\/98158.jpg",
+        "title":"Fate\/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+        "type":"Movie",
+        "score":8.51
+    },
+    {
+        "anime_id":21329,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/10\/59315.jpg",
+        "title":"Mushishi: Hihamukage",
+        "type":"Special",
+        "score":8.51
+    },
+    {
+        "anime_id":578,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/7\/75808.jpg",
+        "title":"Hotaru no Haka",
+        "type":"Movie",
+        "score":8.51
+    },
+    {
+        "anime_id":12365,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/6\/41845.jpg",
+        "title":"Bakuman. 3rd Season",
+        "type":"TV",
+        "score":8.51
+    },
+    {
+        "anime_id":38474,
+        "main_pic":"https:\/\/cdn.myanimelist.net\/images\/anime\/1255\/110636.jpg",
+        "title":"Yuru Camp\u25b3 Season 2",
+        "type":"TV",
+        "score":8.51
+    }
+]

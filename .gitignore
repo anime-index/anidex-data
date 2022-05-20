@@ -1,2 +1,3 @@
 **data
-database/sql_password.txt
+mysql/sql_password.txt
+**__pycache__
